@@ -1,3 +1,5 @@
+//The image of Sigma Squiward is from Débora González on Behance < https://www.behance.net/gallery/97380727/Handsome-Squidward/modules/562296985 >
+
 var SIZE;
 var xPos, yPos, pic;
 function preload(){
