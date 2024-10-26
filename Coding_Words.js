@@ -37,7 +37,7 @@ function draw() {
   noStroke();
     // rotate(QUARTER_PI);
     rotate(mouseX);
-    text('VTEC JUST KICKED IN YO\nBA BA BA BAAAAA', width/2, height/2)
+    text('VTEC JUST KICKED IN YO BA BA BA BAAAAA', width/2, height/2)
   pop();
   stroke(150, 0, 0);
   strokeWeight(10);
